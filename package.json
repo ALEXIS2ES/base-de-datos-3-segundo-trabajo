@@ -21,7 +21,7 @@
     "url": "https://github.com/g10vlad/mongodb-crud/issues"
   },
   "homepage": "https://github.com/g10vlad/mongodb-crud#readme",
-  "dependencies": {
-    "mongodb": "^2.2.25"
+  "devdependencies": {
+    "mongodb": "3.1.13"
   }
 }
